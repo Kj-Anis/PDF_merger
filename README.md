@@ -9,7 +9,7 @@ install python in Microsoft Store
 
 Linux
 
-apt install python
+sudo apt install python
 
 Termux
 
