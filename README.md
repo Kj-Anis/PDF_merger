@@ -25,7 +25,7 @@ cd PDF_merger
 
 chmod +x PDF_merger.py
 
-python PDF_merger.py
+sudo python PDF_merger.py
 
 # Termux
 
