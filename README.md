@@ -23,6 +23,8 @@ git clone https://github.com/Kj-Anis/PDF_merger.git
 
 cd PDF_merger
 
+chmod +x PDF_merger.py
+
 python PDF_merger.py
 
 # Termux
@@ -30,6 +32,8 @@ python PDF_merger.py
 git clone https://github.com/Kj-Anis/PDF_merger.git
 
 cd PDF_merger
+
+chmod +x PDF_merger.py
 
 python PDF_merger.py [if not work try next command]
 
