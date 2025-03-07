@@ -7,11 +7,11 @@ Windows
 
 install python in Microsoft Store
 
-Linux
+Linux command :
 
 sudo apt install python
 
-Termux
+Termux command :
 
 pkg install python
 
