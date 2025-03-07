@@ -4,6 +4,7 @@
 
 # How to Setup
 Windows
+
 install python in Microsoft Store
 
 Linux
