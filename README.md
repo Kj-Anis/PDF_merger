@@ -2,22 +2,11 @@
 
 ![image alt](https://raw.githubusercontent.com/Kj-Anis/PDF_merger/refs/heads/main/pdf.webp)
 
-# How to Setup
-Windows
-
-install python in Microsoft Store
-
-Linux command :
+# Linux
 
 sudo apt install python
 
-Termux command :
-
-pkg install python
-
-# How to use
-
-# Linux
+pip install pypdf==5.3.0
 
 git clone https://github.com/Kj-Anis/PDF_merger.git
 
@@ -30,6 +19,12 @@ sudo python PDF_merger.py
 # Termux
 
 termux-setup-storage
+
+pkg install git
+
+pkg install python
+
+pip install pypdf==5.3.0
 
 git clone https://github.com/Kj-Anis/PDF_merger.git
 
