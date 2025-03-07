@@ -16,3 +16,21 @@ Termux
 pkg install python
 
 # How to use
+
+# Linux
+
+git clone https://github.com/Kj-Anis/PDF_merger.git
+
+cd PDF_merger
+
+python PDF_merger.py
+
+# Termux
+
+git clone https://github.com/Kj-Anis/PDF_merger.git
+
+cd PDF_merger
+
+python PDF_merger.py [if not work try next command]
+
+sudo python PDF_merger.py
