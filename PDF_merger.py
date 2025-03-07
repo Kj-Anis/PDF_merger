@@ -28,7 +28,7 @@ for j in pdf_store:
 user_ask = str(input("You Want to set name of the merged pdf y/n :"))
 
 if user_ask == "y" or user_ask == "Y":
-    name_pdf = str(input("Set a name of the new pdf : "))
+    name_pdf = str(input("Enter the name of the new PDF : "))
     if name_pdf.endswith(".pdf") or name_pdf.endswith(".PDF"):
         pdf_merger(name_pdf)
         print()
